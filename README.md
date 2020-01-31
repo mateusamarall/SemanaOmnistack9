@@ -1,10 +1,28 @@
 # SemanaOmnistack9
-Semana Omnistack da rocketseat
+Semana Omnistack da rocketseat criando uma aplicação parecida com AirBnB
 
-Caso queira baixar para visualizar o resultado segue algumas dicas:
+# Techs
+React-Native <br/>
+ReactJS<br/>
+NodeJS<br/>
+Axios<br/>
+Expo<br/>
+Cors<br/>
+Express<br/>
+Multer<br/>
+Mongoose<br/>
+MongoDB<br/>
+Socket.io<br/>
+nodemon<br/>
 
-use "yarn dev" para rodar o back-end da aplicação 
+# Images
 
-yarn start para rodar o front-end ou o mobile
+# Front-end
 
-vai ser necessario você acessar alguns arquivos para colocar seu ip (esta bem descritivo), pois as imagens e as conexões do axios necessitam do ip.
+![1_xDi2csEAWxu95IEkaNdFUQ](https://user-images.githubusercontent.com/37390930/73579022-f454c700-445f-11ea-979b-0047ead83415.png)
+
+# Mobile
+
+![WhatsApp Image 2020-01-31 at 19 09 53](https://user-images.githubusercontent.com/37390930/73579047-13535900-4460-11ea-8216-d4df6f3e405a.jpeg)
+
+
