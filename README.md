@@ -1,7 +1,7 @@
-# SemanaOmnistack9
+# :computer: SemanaOmnistack9
 Semana Omnistack da rocketseat criando uma aplicação parecida com AirBnB
 
-# Techs
+# :rocket: Techs
 React-Native <br/>
 ReactJS<br/>
 NodeJS<br/>
@@ -15,7 +15,7 @@ MongoDB<br/>
 Socket.io<br/>
 nodemon<br/>
 
-# Images
+# :camera: Images
 
 # Front-end
 
